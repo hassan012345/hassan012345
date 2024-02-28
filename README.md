@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Read more about me](./AnotherREADME.md)
 
 <!--
 **hassan012345/hassan012345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
