@@ -1,3 +1,4 @@
+- ![hassan012345's GitHub Banner](https://raw.githubusercontent.com/hassan012345/hassan012345/main/banner.png)
 ### Hi there 👋 I am Hassan Siddique
 - 🔭 I’m currently working on MERN Stack. I am familiar with .Net as well.
 - 🌱 I’m currently learning Nextjs
@@ -19,8 +20,6 @@
 - **Database:**
 - MongoDB
 - SQL
-
-- ![hassan012345's GitHub Banner](https://raw.githubusercontent.com/hassan012345/hassan012345/main/banner.png)
 
   
 [Read more about me](./AnotherREADME.md)
